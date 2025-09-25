@@ -6,7 +6,7 @@ Also create the ssh key for this note text, will have to do it everyday
 
 ##
 
-Bash keeps showing up the capital city college citation for no reasoo!!##
+Bash keeps showing up the capital city college citation for no reasoo!!
 
 !!
 
