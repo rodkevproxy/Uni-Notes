@@ -9,6 +9,11 @@ num_3 = float(input ("Give me a third number: "))
 
 average = (num_1 + num_2 + num_3) / 3
 
-print (f"The average is: {Average}")
+print (f"The average is: {average}")
+
+
+
+
+#Keep it as a neew commit per day 
 
 
